@@ -12,9 +12,10 @@ width="25%"><img
   width="25%"><img 
   src="marshalls img/Spock shirt.jpg" 
   width="25%"><img
-  <img 
-  src="/img/marshalls img/family pic downtown Charlotte.jpg" 
+  src="marshalls img/family pic downtown Charlotte.jpg" 
   width="25%">
+  
+  
   
   
 
