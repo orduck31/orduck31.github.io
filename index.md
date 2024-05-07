@@ -5,7 +5,18 @@ I am originally from Queens, New York, Charleston, South Carolina and Ontario, O
 
 Enjoy College and Professional sports of all kinds.  NY Knicks, NY Mets, NY Jets, Oregon Ducks, South Carolina Gamecocks, Oregon State Beavers, North Carolina, Tarheels, Carolina Panthe, Charlotte Hornets
 
-![Mascot meeting MN ](https://github.com/orduck31/orduck31.github.io/assets/166548468/bbe7360e-de70-4816-a446-d6f16013dad7) ![51596689_118246839246967_7236576034659762176_n_118246835913634](https://github.com/orduck31/orduck31.github.io/assets/166548468/8803adaa-1e31-47dc-8d47-903f63ff8ec5)![51642195_118246685913649_114223624444968960_n_118246682580316](https://github.com/orduck31/orduck31.github.io/assets/166548468/f56042e6-cd9d-4f64-a82f-2db157010ee9)
+<img 
+src="marshalls img/Indy Musuem.jpg" 
+width="25%"><img
+  src="marshalls img/Mason FFA.jpg" 
+  width="25%"><img 
+  src="marshalls img/Spock shirt.jpg" 
+  width="25%"><img
+  <img 
+  src="/img/marshalls img/family pic downtown Charlotte.jpg" 
+  width="25%">
+  
+  
 
 
 
